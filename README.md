@@ -1,9 +1,6 @@
 # HOWTO BUILD
-You will need to have zipalign installed.
-To install zipalign run: "sudo apt install zipalign"
-
-Then run ./build.sh
-The script will build, sign and zipalign the apk, the final apk will be placed in the root of the source directory
+Run ./build.sh
+The script will build, sign and zipalign the apk, the final apk will be placed in the root of the source directory (Phonograph-release.apk).
 
 # Vinyl Music Player
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://github.com/AdrienPoupa/VinylMusicPlayer/blob/master/LICENSE.txt) [![CircleCI](https://circleci.com/gh/AdrienPoupa/VinylMusicPlayer/tree/master.svg?style=svg)](https://circleci.com/gh/AdrienPoupa/VinylMusicPlayer/tree/master)
